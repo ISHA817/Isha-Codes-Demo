@@ -1,2 +1,2 @@
-# Isha-Codes-Demo
-This is my first repository
+# IshaCodes-Demo
+This is my first Git repository
